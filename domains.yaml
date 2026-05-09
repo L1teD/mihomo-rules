@@ -1,9 +1,6 @@
 payload:
-  - huismetbenen.nl
-  - *.huismetbenen.nl
-  - osuck.net
-  - *.osuck.net
-  - cloudfront.net
+  - +.huismetbenen.nl
+  - +.osuck.net
   - +.cloudfront.net
   - wokwi.com
   - uupdump.net
