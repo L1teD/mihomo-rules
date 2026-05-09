@@ -1,8 +1,9 @@
 payload:
   - huismetbenen.nl
-  - pp.huismetbenen.nl
-  - wokwi.com
+  - *.huismetbenen.nl
   - osuck.net
-  - skins.osuck.net
-  - uupdump.net
+  - *.osuck.net
   - cloudfront.net
+  - +.cloudfront.net
+  - wokwi.com
+  - uupdump.net
