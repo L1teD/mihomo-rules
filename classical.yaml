@@ -1,2 +1,3 @@
 payload:
   - PROCESS-NAME,crosvm.exe,PROXY
+  - PROCESS-NAME,VmmemWSA.exe,PROXY
